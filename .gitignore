@@ -1,0 +1,4 @@
+# Hide environment variables and local Python files
+.env
+__pycache__/
+*.pyc
