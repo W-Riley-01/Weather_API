@@ -26,11 +26,12 @@ A fully-featured weather forecast app built with Python and Tkinter. It fetches 
 
 ### ▶️ How to Run
 
-1. **Clone the repo** or download the files:
+1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/W-Riley-01/weather_api.git
-   cd weather_api
+   git clone https://github.com/W-Riley-01/Weather_API.git
+   cd Weather_API
+
 
 
 
